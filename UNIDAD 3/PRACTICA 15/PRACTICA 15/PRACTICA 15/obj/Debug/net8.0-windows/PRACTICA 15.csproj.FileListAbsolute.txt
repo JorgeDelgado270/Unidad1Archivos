@@ -1,0 +1,16 @@
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\PRACTICA_15.Form1.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\PRACTICA 15.csproj.GenerateResource.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\PRACTICA 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\PRACTICA 15.AssemblyInfoInputs.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\PRACTICA 15.AssemblyInfo.cs
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\PRACTICA 15.csproj.CoreCompileInputs.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\bin\Debug\net8.0-windows\PRACTICA 15.exe
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\bin\Debug\net8.0-windows\PRACTICA 15.deps.json
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\bin\Debug\net8.0-windows\PRACTICA 15.runtimeconfig.json
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\bin\Debug\net8.0-windows\PRACTICA 15.dll
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\bin\Debug\net8.0-windows\PRACTICA 15.pdb
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\PRACTICA 15.dll
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\refint\PRACTICA 15.dll
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\PRACTICA 15.pdb
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\PRACTICA 15.genruntimeconfig.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 15\PRACTICA 15\PRACTICA 15\obj\Debug\net8.0-windows\ref\PRACTICA 15.dll
