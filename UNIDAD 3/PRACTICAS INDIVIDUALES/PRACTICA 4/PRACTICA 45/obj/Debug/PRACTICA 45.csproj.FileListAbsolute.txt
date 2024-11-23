@@ -1,0 +1,20 @@
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\bin\Debug\PRACTICA 45.exe.config
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\bin\Debug\PRACTICA 45.exe
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\bin\Debug\PRACTICA 45.pdb
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\obj\Debug\PRACTICA 45.csproj.AssemblyReference.cache
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\obj\Debug\PRACTICA_45.Form1.resources
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\obj\Debug\PRACTICA_45.Properties.Resources.resources
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\obj\Debug\PRACTICA 45.csproj.GenerateResource.cache
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\obj\Debug\PRACTICA 45.csproj.CoreCompileInputs.cache
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\obj\Debug\PRACTICA 45.exe
+C:\Users\joard\source\repos\PRACTICA 45\PRACTICA 45\obj\Debug\PRACTICA 45.pdb
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\bin\Debug\PRACTICA 45.exe.config
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\bin\Debug\PRACTICA 45.exe
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\bin\Debug\PRACTICA 45.pdb
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\obj\Debug\PRACTICA 45.csproj.AssemblyReference.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\obj\Debug\PRACTICA_45.Form1.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\obj\Debug\PRACTICA_45.Properties.Resources.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\obj\Debug\PRACTICA 45.csproj.GenerateResource.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\obj\Debug\PRACTICA 45.csproj.CoreCompileInputs.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\obj\Debug\PRACTICA 45.exe
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA INDIVIDUALES\PRACTICA 4\PRACTICA 45\obj\Debug\PRACTICA 45.pdb
